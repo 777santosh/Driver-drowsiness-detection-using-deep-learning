@@ -27,7 +27,7 @@ Getting Started:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+ghttps://github.com/777santosh/Driver-drowsiness-detection-using-deep-learning.git
 Install the necessary dependencies:
 bash
 Copy code
